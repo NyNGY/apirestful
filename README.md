@@ -1,2 +1,2 @@
-# apirest_ful
+# api_restful
 API restful avec des donnees statique
